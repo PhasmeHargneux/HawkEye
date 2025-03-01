@@ -70,6 +70,8 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 💡 Found a bug or have a feature request? Open an [issue](https://github.com/PhasmeHargneux/HawkEye/issues) on GitHub.
 
+📧 **Email**: silvaraynal@gmail.com
+
 🔗 **GitHub**: [HawkEye Repo](https://github.com/PhasmeHargneux/HawkEye)
 
 🔥 **Hope my tool will help you !** 🚀
