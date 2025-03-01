@@ -4,6 +4,8 @@ import whois
 import pyfiglet
 from colorama import Fore, Style, init
 import argparse
+import sys
+sys.stdout.reconfigure(encoding='utf-8')  # Force UTF-8 Encoding
 
 # Initialize colorama for Windows
 init()
