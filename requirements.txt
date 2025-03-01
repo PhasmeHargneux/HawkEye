@@ -1,6 +1,5 @@
-nmap
-json
-whois
+python-nmap
+python-whois
 pyfiglet
 colorama
 argparse
