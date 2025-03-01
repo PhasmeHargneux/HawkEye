@@ -1,5 +1,4 @@
 import nmap
-import socket
 import json
 import whois
 import pyfiglet

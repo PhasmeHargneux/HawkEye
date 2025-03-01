@@ -1,0 +1,6 @@
+nmap
+json
+whois
+pyfiglet
+colorama
+argparse
