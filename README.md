@@ -52,32 +52,7 @@ python hawkeye.py scanme.nmap.org --json
 
 ## 🎨 Terminal Preview
 
-```
- _   _                _    _____
-| | | |              | |  |  ___|
-| |_| | __ ___      _| | _| |__ _   _  ___
-|  _  |/ _` \ \ /\ / / |/ /  __| | | |/ _ \
-| | | | (_| |\ V  V /|   <| |__| |_| |  __/
-\_| |_/\__,_| \_/\_/ |_|\_\____/\__, |\___|
-                                 __/ |
-                                |___/
-
-🦅 Vulnerability Scanner - Developed by a nerd
-
-🎯 Target: scanme.nmap.org
-
-🔍 Host: 45.33.32.156 - State: up
-  ➤ Port 22: ssh (open)
-  ➤ Port 80: http (open)
-  ➤ Port 443: https (open)
-
-🌍 WHOIS Information:
-  📌 Domain: nmap.org
-  🏢 Registrar: DYNADOT LLC
-  📅 Creation Date: 1999-01-18
-  🔚 Expiration Date: 2029-01-18
-  🌐 Name Servers: ns1.linode.com, ns2.linode.com, ns3.linode.com
-```
+![Terminal Preview](./assets/terminal_preview.png)
 
 ## ⚠️ Disclaimer
 
