@@ -52,7 +52,7 @@ python hawkeye.py scanme.nmap.org --json
 
 ## 🎨 Terminal Preview
 
-![Terminal Preview](./assets/terminal_preview.png)
+![Terminal Preview](./assets/term_preview.png)
 
 ## ⚠️ Disclaimer
 
