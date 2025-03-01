@@ -20,9 +20,7 @@ def print_banner():
     print(Fore.GREEN + "  --json       Save results as JSON file (scan_report.json)\n" + Style.RESET_ALL)
     print(Fore.GREEN + "  --ports <range>  Specify port range to scan (e.g., 1-65535)\n" + Style.RESET_ALL)
     print(Fore.GREEN + "Example:\n" + Style.RESET_ALL)
-    print(Fore.GREEN + "  python hawkeye.py scanme.nmap.org\n" + Style.RESET_ALL)
-    print(Fore.GREEN + "  python hawkeye.py scanme.nmap.org --json\n" + Style.RESET_ALL)
-    print(Fore.GREEN + "  python hawkeye.py scanme.nmap.org --ports 20-1000\n" + Style.RESET_ALL)
+    print(Fore.GREEN + "  python hawkeye.py scanme.nmap.org --json --ports 20-1000\n" + Style.RESET_ALL)
 
 def scan_ports(target, ports="1-1024"):
     scanner = nmap.PortScanner()
