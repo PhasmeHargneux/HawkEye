@@ -4,10 +4,10 @@ HawkEye is a powerful and easy-to-use **port scanner & WHOIS information aggrega
 
 ## 🚀 Features
 
-✅ **Fast & Efficient Port Scanning** – Uses `nmap` to detect open/filtered ports.
-✅ **Customizable Port Ranges** – Scan specific ranges (`--ports 20-1000`) or full (`1-65535`).
-✅ **WHOIS Lookup** – Fetches **domain registrar, creation/expiration dates, and name servers**.
-✅ **Real-time Terminal Output** – Stylized, color-coded results with emojis.
+✅ **Fast & Efficient Port Scanning** – Uses `nmap` to detect open/filtered ports.  
+✅ **Customizable Port Ranges** – Scan specific ranges (`--ports 20-1000`) or full (`1-65535`).  
+✅ **WHOIS Lookup** – Fetches **domain registrar, creation/expiration dates, and name servers**.  
+✅ **Real-time Terminal Output** – Stylized, color-coded results with emojis.  
 ✅ **JSON Export** – Save scan results using the `--json` flag.
 
 ## 🔥 Usage
@@ -24,9 +24,9 @@ Scan a domain with default ports (`1-1024`):
 python hawkeye.py scanme.nmap.org
 ```
 
-Scan a **custom port range**:
+Scan an IP with a **custom port range**:
 ```bash
-python hawkeye.py scanme.nmap.org --ports 20-1000
+python hawkeye.py 127.0.0.1 --ports 20-1000
 ```
 
 Save results as **JSON**:
